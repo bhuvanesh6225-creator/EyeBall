@@ -1,0 +1,54 @@
+body{
+    background-color: greenyellow;
+}
+
+
+#eye1{
+    display:inline-block;
+    position: relative;
+    background-color: white;
+    border-radius: 60%;
+    width:200px;
+    height:100px;
+    margin-top:10%;
+    margin-left: 30%;
+    overflow: hidden;
+
+}
+
+#eye2{
+    display:inline-block;
+    position: relative;
+    background-color: white;
+    border-radius: 60%;
+    width: 200px;
+    height:100px;
+    margin-top:10%;
+   margin-left: 20%;
+   overflow: hidden;
+
+}
+
+#eye1 #eyeball1{
+    display:inline-block;
+    position: absolute;
+    width:70px;
+    height:70px;
+    border-radius: 100%;
+    background-color: black;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+#eye2 #eyeball2{
+    display:inline-block;
+      position: absolute;
+    width:70px;
+    height:70px;
+    border-radius: 100%;
+    background-color: black;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+
